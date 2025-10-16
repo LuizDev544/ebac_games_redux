@@ -25,7 +25,7 @@ function App() {
   }, [])
 
   function adicionarAoCarrinho() {
-    console.log("Teste")
+    console.log('Teste')
   }
 
   return (
@@ -43,4 +43,3 @@ export default App
 function setGames(res: any): any {
   throw new Error('Function not implemented.')
 }
-
